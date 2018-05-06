@@ -1,8 +1,6 @@
 # Vue.js Chrome Extension Template 
 > Template for quick creation of Chrome extension on Vuejs c hot reloading when developing.
 
-![Vue.js Chrome Extension Template images](/docs/images/mini.jpg)
-
 ## Installation:
 This boilerplate was built as a template for [vue-cli](https://github.com/vuejs/vue-cli) and includes options to customize your final scaffolded app. 
 ``` bash
