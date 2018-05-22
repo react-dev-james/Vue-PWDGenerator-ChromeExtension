@@ -1,4 +1,4 @@
-# Vue.js Chrome Extension Template 
+# Vue.js Password Generator Extension
 > Template for quick creation of Chrome extension on Vuejs c hot reloading when developing.
 
 ## Installation:
